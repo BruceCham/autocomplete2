@@ -1,0 +1,29 @@
+{
+  "family": "",
+  "name": "autocomplete2",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/brucecham/autocomplete2",
+  "author": "brucecham",
+  "maintainers": [
+    "brucecham"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brucecham/autocomplete2.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "autocomplete2.js",
+      "autocomplete2.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
