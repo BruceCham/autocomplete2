@@ -7,8 +7,8 @@ A nice CMD module.
 ---
 
 ## Usage
-[基于bigautocomplete优化](http://bigui4.sinaapp.com/autocomplete/demo.html)
-It is very easy to use this module.
+###### [基于bigautocomplete优化](http://bigui4.sinaapp.com/autocomplete/demo.html)
+###### It is very easy to use this module.
 
 ````html
 <input type="text" id="qq" style="width:300px;"/>
